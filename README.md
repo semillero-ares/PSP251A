@@ -11,7 +11,7 @@ En visual studio code, presionamos `Ctrl + J` para abrir el terminal, instalamos
 pip install virtualenv
 ```
 
-Creamos un ambiente virtual, en el ejemplo lo cree en la ruta `C:\venv\mkdocs``, pero pueden usar cualquier ruta. 
+Creamos un ambiente virtual, en el ejemplo lo cree en la ruta `C:\virtualenv\mkdocs``, pero pueden usar cualquier ruta. 
 
 ```bash
 python -m virtualenv C:\virtualenv\mkdocs
