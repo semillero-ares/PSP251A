@@ -11,7 +11,7 @@ En visual studio code, presionamos `Ctrl + J` para abrir el terminal, instalamos
 pip install virtualenv
 ```
 
-Creamos un ambiente virtual, en el ejemplo lo cree en la ruta `C:\venv\mkdocs``, pero pueden usar cualquier ruta. 
+Creamos un ambiente virtual, en el ejemplo lo cree en la ruta `C:\virtualenv\mkdocs``, pero pueden usar cualquier ruta. 
 
 ```bash
 python -m virtualenv C:\virtualenv\mkdocs
@@ -21,6 +21,12 @@ Y activamos luego, el ambiente virtual (el ejemplo es para windows):
 
 ```bash
 C:\virtualenv\mkdocs\Scripts\Activate.ps1  
+```
+
+Si hay un error entonces, abrir un PowerShell en modo administrador y poner el siguiente comando:
+
+```sh
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
 
 Abrimos la carpeta donde crearas la documentación (`Ctrl + K` seguido de `Ctrl + O`). 
