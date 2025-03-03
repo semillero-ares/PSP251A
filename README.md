@@ -28,12 +28,13 @@ Abrimos la carpeta donde crearas la documentación (`Ctrl + K` seguido de `Ctrl 
 Y estando allí, en el terminal: Activamos el ambiente virtual  e instalamos los requerimientos. 
 
 ```bash
-C:\venv\mkdocs\Scripts\Activate.ps1  
+C:\virtualenv\mkdocs\Scripts\Activate.ps1  
 pip install -r .\requirements.txt
 ```
 
 # Activan el servidor
 
 ```sh
+C:\virtualenv\mkdocs\Scripts\Activate.ps1  
 mkdocs serve
 ```
