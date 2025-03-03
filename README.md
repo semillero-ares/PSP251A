@@ -23,6 +23,12 @@ Y activamos luego, el ambiente virtual (el ejemplo es para windows):
 C:\virtualenv\mkdocs\Scripts\Activate.ps1  
 ```
 
+Si hay un error entonces, abrir un PowerShell en modo administrador y poner el siguiente comando:
+
+```sh
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+```
+
 Abrimos la carpeta donde crearas la documentación (`Ctrl + K` seguido de `Ctrl + O`). 
 
 Y estando allí, en el terminal: Activamos el ambiente virtual  e instalamos los requerimientos. 
