@@ -44,3 +44,5 @@ pip install -r .\requirements.txt
 C:\virtualenv\mkdocs\Scripts\Activate.ps1  
 mkdocs serve
 ```
+
+repore de cambio en el documento 
