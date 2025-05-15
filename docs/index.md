@@ -1,5 +1,8 @@
 # Inicio
-
+cambio 
+de datos 
+akadkadad
+el sistema no los cuenta
 proyecto de sistemas de potencia y control 
 
 ## Commands
