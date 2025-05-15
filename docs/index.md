@@ -1,6 +1,6 @@
 # Inicio
-Anisabel Valdés Duque
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+proyecto de sistemas de potencia y control 
 
 ## Commands
 
