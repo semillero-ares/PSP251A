@@ -1,13 +1,6 @@
-# Inicio
-cambio 
-de datos 
-akadkadad
-el sistema no los cuenta
-proyecto de sistemas de potencia y control 
-Nombre del poryecto 
+# Electrolizador ZWPER 
 
-Hola, he cambiado el sistema despues de mucho 
-
+Este proyecto es un diseño completo y detallado de un electrolizador el cual es orientado al tratameitno eficiente y sostenible de orina humana como recurso para la generación de hidrógeno verde y la obtención de fertilizante natural. 
 
 ## Commands
 
