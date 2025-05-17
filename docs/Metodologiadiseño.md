@@ -8,10 +8,10 @@ sección del documento analiza las ventajas, desventajas y condiciones operativa
 asociadas con la electrólisis de la urea y el amoníaco, enfatizando su eficiencia energética,
 materiales requeridos y aplicaciones potenciales
 
-<h3>3.1 Caja negra</h3>
+<h3>Caja negra</h3>
 
 <p align="center">
-  <img src="img/imagen1" alt="Caja negra" width="500"/>
+  <img src="img/imagen1" width="500"/>
 </p>
 
 <p style="text-align: center;"><em>Imagen 1. Caja negra con el verbo separar como principal acción del electrolizador</em></p>
@@ -45,6 +45,9 @@ separación del flujo de masa ente ambas cámaras (la del ánodo y del cátodo),
 la salida diferenciada del hidrogeno reducido y del nitrógeno oxidado, pero a su vez conecta
 la energía eléctrica entre ambas cámaras para cerrar el circuito. Se esperan pérdidas en
 forma de ruido, vibraciones y calor durante el proceso.
+
+
+![Mi imagen explicativa](img/imagen1.jpg)
 
 
 # Instrumentos implementados 
