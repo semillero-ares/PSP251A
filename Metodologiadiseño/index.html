@@ -8,11 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://www.eafit.edu.co/formulacion/">
+        <link rel="canonical" href="https://www.eafit.edu.co/Metodologiadise%C3%B1o/">
       
       
-        <link rel="prev" href="../datos/">
+        <link rel="prev" href="../Estado%20del%20arte/">
       
+      
+        <link rel="next" href="../Modelo%20del%20sistema/">
       
       
       <link rel="icon" href="../_assets/favicon.png">
@@ -20,7 +22,7 @@
     
     
       
-        <title>Formulación del proyecto - Proyecto de sistema de pontencia y control</title>
+        <title>Metodología de diseño - Proyecto de sistema de pontencia y control</title>
       
     
     
@@ -72,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#formulacion-del-proyecto" class="md-skip">
+        <a href="#metodologia-de-diseno" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -105,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Formulación del proyecto
+              Metodología de diseño
             
           </span>
         </div>
@@ -259,9 +261,11 @@
   
   
   
+    
   
-    <li class="md-tabs__item">
-      <a href="../Metodologiadise%C3%B1o/" class="md-tabs__link">
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
         
   
   
@@ -316,11 +320,9 @@
   
   
   
-    
   
-  
-    <li class="md-tabs__item md-tabs__item--active">
-      <a href="./" class="md-tabs__link">
+    <li class="md-tabs__item">
+      <a href="../formulacion/" class="md-tabs__link">
         
   
   
@@ -459,10 +461,19 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../Metodologiadise%C3%B1o/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -473,6 +484,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -525,32 +537,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    Formulación del proyecto
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../formulacion/" class="md-nav__link">
         
   
   
@@ -561,35 +551,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Tabla de contenidos
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#objetivos" class="md-nav__link">
-    <span class="md-ellipsis">
-      Objetivos
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -610,9 +571,49 @@
 
 
 
-<h1 id="formulacion-del-proyecto">Formulación del proyecto</h1>
-<h2 id="objetivos">Objetivos</h2>
-<p>formulación de sjsjs</p>
+<h1 id="metodologia-de-diseno">Metodología de diseño</h1>
+<p>La transición hacia fuentes de energía sostenibles ha impulsado el desarrollo de
+tecnologías basadas en el hidrógeno como portadores energéticos. Entre ellas, la
+electrólisis de compuestos amoniacales, como la urea y el amoníaco, ha surgido como una
+alternativa viable para producir hidrógeno de manera más eficiente y sostenible. Esta
+sección del documento analiza las ventajas, desventajas y condiciones operativas
+asociadas con la electrólisis de la urea y el amoníaco, enfatizando su eficiencia energética,
+materiales requeridos y aplicaciones potenciales</p>
+<h3>Caja negra</h3>
+
+<p align="center">
+  <img src="img/imagen1" width="500"/>
+</p>
+
+<p style="text-align: center;"><em>Imagen 1. Caja negra con el verbo separar como principal acción del electrolizador</em></p>
+
+<p>La estructura funcional representa los flujos de entrada y salida del
+sistema, principalmente en forma de información y energía, se definen la orina y la energía
+eléctrica como flujos principales en la entrada del sistema, la orina se transporta y se
+almacena a lo largo del sistema hasta que es monitoreada por un instrumento, allí entra el
+sistema de control (alimentado por energía eléctrica externa) que controla y varía la
+cantidad de caudal admisible en el sistema para el instante de tiempo t, después de que el
+sistema haya considerado admitir más volumen de orina para electrolizar, se procede a
+llevarlo a un recipiente, donde tanto el ánodo como el cátodo están insertados para
+comenzar el proceso de electrólisis, y con ayuda de la membrana, se separan los elementos
+que son fuente aprovechable de energía de aquellos considerados desperdicio
+(representados por los canales 1 a 3, donde el canal 1 y 2 son aquellos que expulsan del
+sistema a aquellos elementos que no son necesarios), hasta llegar al canal de salida de
+hidrógeno en forma de vapor, que dependiendo de la decisión del cliente en
+aprovechamiento energético, se puede almacenar.</p>
+<p>En la estructura funcional se tienen
+las mismas entradas y salidas propuestas en la caja negra, con subestructuras descritas
+por los verbos de la nomenclatura de Pahl &amp; Beitz. Se describe en ella el proceso de
+electrolisis de un sistema de membrana de intercambio iónico, en donde la energía eléctrica
+es transportada por los electrodos los cuales la transforman en energía química para así
+separar los elementos de la entrada en los de la salida. La membrana sirve como
+separación del flujo de masa ente ambas cámaras (la del ánodo y del cátodo), permitiendo
+la salida diferenciada del hidrogeno reducido y del nitrógeno oxidado, pero a su vez conecta
+la energía eléctrica entre ambas cámaras para cerrar el circuito. Se esperan pérdidas en
+forma de ruido, vibraciones y calor durante el proceso.</p>
+<p><img alt="Mi imagen explicativa" src="img/imagen1.png" /></p>
+<h1 id="instrumentos-implementados">Instrumentos implementados</h1>
+<h2 id="_1"></h2>
 
 
 

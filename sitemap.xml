@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.eafit.edu.co/</loc>
-         <lastmod>2025-03-03</lastmod>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/Ani%20imagenes/</loc>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/Dise%C3%B1o%20del%20sistema/</loc>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/Estado%20del%20arte/</loc>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/Metodologiadise%C3%B1o/</loc>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/Modelo%20del%20sistema/</loc>
+         <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.eafit.edu.co/datos/</loc>
+         <lastmod>2025-05-23</lastmod>
     </url>
     <url>
          <loc>https://www.eafit.edu.co/formulacion/</loc>
-         <lastmod>2025-03-03</lastmod>
+         <lastmod>2025-05-23</lastmod>
     </url>
 </urlset>
