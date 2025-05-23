@@ -47,7 +47,7 @@ la energía eléctrica entre ambas cámaras para cerrar el circuito. Se esperan 
 forma de ruido, vibraciones y calor durante el proceso.
 
 
-![Mi imagen explicativa](img/imagen1.jpg)
+![Mi imagen explicativa](img/imagen1.png)
 
 
 # Instrumentos implementados 
