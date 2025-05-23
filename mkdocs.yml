@@ -1,6 +1,6 @@
 site_name: "Proyecto de sistema de pontencia y control"
 site_url: "https://www.eafit.edu.co/"
-copyright: Copyright &copy; 2025 {{nombre de los estudiantes}}. – <a class="white" href="#__consent">Preferencias de las cookies</a>
+copyright: Proyecto de un electrolizador de amoniaco – <a class="white" href="#__consent">Preferencias de las cookies</a>
 extra:
   generator: false
   homepage: https://www.eafit.edu.co/
